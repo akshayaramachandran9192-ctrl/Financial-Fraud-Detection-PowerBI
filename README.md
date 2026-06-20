@@ -3,7 +3,7 @@
 An interactive and dynamic Power BI end-to-end data analytics dashboard designed to analyze bank transactions, evaluate categorical channels, and track fraudulent patterns efficiently.
 
 ## 🌟 Project Screenshot
-![Dashboard Screenshot](./Screenshot 2026-06-20 131438.png)
+![Dashboard Screenshot](./Screenshot%2026-06-20%131438.png)
 
 ## 📌 Core Business Insights & Metrics
 * **Total Dataset Rows Analyzed:** 100,000 Historical Transaction Records
